@@ -3,10 +3,10 @@
 int main() {
 
     char estado1 = 'A';
-    char codigo1[3];
-    char cidade1[20];
+    char codigo1[10];
+    char cidade1[30];
     char estado2 = 'B';
-    char codigo2[3];
+    char codigo2[10];
     char cidade2[30];
     float populacao1, populacao2;
     float area1, area2;
